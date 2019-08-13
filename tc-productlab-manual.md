@@ -10,25 +10,25 @@ Versio 0.01
 
 ## Introduction
 
-Ticorporate business simulation is based on "Information systems project" course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group towards a common goal. In the autumn of 2013 Information systems project course extended to include theory studies when "Software production", "project management", and "modeling information systems" courses were integrated into it. After that process the course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to TC and a rolling number. Now we are at TC6.
+Ticorporate business simulation is based on "Information systems project" course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group working towards a common goal. In the autumn of 2013 Information systems project course extended to include theory studies when "Software production", "project management", and "modeling information systems" courses were integrated into it. The newly founded course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to "TC" plus a rolling number. Now we are at TC6.
 
-After some yearly incremental updates it was decided that Ticorporate as it was is at its end. The course was split in half and that process gave birth to Ticorporate Demolab and Ticorporate Productlab. Year after that, the course was pushed forwards half a year, causing Demolab to start on 2nd year BIT students spring semester and Productlab to start on 3rd year students autumn semester.
+After few yearly incremental upgrades it was decided that Ticorporate as it was is at its end. The course was split in half and that process gave birth to Ticorporate Demolab and Ticorporate Productlab. Year after that, the course was pushed forwards half a year, causing Demolab to start on 2nd year BIT students spring semester and Productlab to start on 3rd year students autumn semester.
 
-Demolab is mandatory for all BIT students and Productlab is a part of elective professional studies. Demolabs purpose is basically the same as in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. This document is created to describe Productlabs objectives and activities.
+Demolab is mandatory for all BIT students and Productlab is a part of elective professional studies. Demolabs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting.
+
+This document is created to describe objectives and activities of Productlab.
 
 ## Production process
 
-The course is divided in four separate blocks. These are concepting, pre-production, production and post-production.
+The course is divided in four separate phases. These are concepting, pre-production, production and post-production.
 
 ### Concepting and grouping up
-
-The courses starts on 9th of September with concepting.
 
 #### Monday
 
 The day starts at 09:00 CEST at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course.
 
-When all the formalities are done [something happens? :D]. 
+When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so. 
 
 #### Tuesday
 
@@ -58,9 +58,18 @@ It's also recommended to use the document templates in the provided GitHub repos
 
 ### Production
 
+Will happen in a chosen manner by group. Only one demo during this time to assess the performance of the group.
+
 ### Post-production
 
+- Final demo
+- Contigency plans
+- Releases if applicable
+
+
 ## Demos, career portfolio and demonstration day
+
+
 
 ### Assessment of demos
 
@@ -79,11 +88,10 @@ It's also recommended to use the document templates in the provided GitHub repos
 
 |Subject of assessment|Sufficient|Good|Excellent|
 |---|---|---|---|
-Contents and execution of portfolio| Has way too much (or too little) contents and is a confusing pile of work. Doesn't convince. | Quite ok! Brings out know-how through selected work. Type of presentation is ordinary. | Interesting and displays know-how excelently. Appears to possible employer in a positive and exemplary way.
-| Know-how | Demonstration shows that know-how is only a little bit better than at the start, or from a very narrow field. Development of know-how only barely visible. Challenges in achieving set targets. | Evolution of know-how and investment in learning can be seen from portfolio. Student has managed to achieve most of set targets.| Learning curve of know-how is clearly visible from the presentation. Student is proud of their achievements and displays exemplary exhibtion of conquering achievements. |
-| Contributio to the project | The demonstration shows that the student has produced little to no actual value to the project | The student has produced content and value to the project. The demonstration shows this well. | The student has produced a lot of content and value from a wide field to the project and shows it in exemplary way in the demonstration. |
-Self evaluatio and analysis | The student has challenges to show reflective standpoint to their own learning and know-how | Reflection of know-how is good. The student recognizes their know-hows development points and those sections which are still shallow. | The students analysis is convincing and deep. The student can look and assess their own work from an objective standpoint. The student sees their own potential in the field and can recognize the needs of their know-how for future workplaces and assignments. |
-| Presentation and extra value for the discussion | The presentation is ordinary list of work. Student can't hold a constructive and analytic discussion with their preers about the presentation. | The student presents their work in organized and analyzed manner. Presentation is interesting and well defined. The student provides extra value for the conversation and brings new points of view to it | The presentation is captivating and really interesting. The strutcture of the presentation is clear and its technologically exemplary. The students know-how and pride in the done work shows in exemplary through the presented material. The student is active in the discussion and brings new points of view and elevates the discussion to a higher level.
+Contents and execution of portfolio| Has way too much (or too little) content and is a confusing pile of work. Doesn't convince. | Quite ok! Brings out the students know-how through selected work. Presentation type is ordinary. | Interesting and displays the students know-how excellently. Appears to possible employer in a positive and exemplary way.
+| Know-how | Demonstration shows that the students know-how is only a little bit better than at the start of the course, or from a very narrow field. Development of the students know-how is only barely visible. Challenges in achieving set targets. | Evolution of the students know-how and investment in learning can be seen from the portfolio. The student has managed to achieve most of the  set targets.| The learning curve of the students know-how is clearly visible from the presentation. The student is proud of their achievements and displays exemplary exhibition of conquering achievements. |
+Self evaluation and analysis | The student has challenges to show reflective standpoint to their own learning and know-how. | Reflection of know-how is good. The student recognizes their know-hows development points and those sections which are still shallow. | The students analysis is convincing and deep. The student can look and assess their own work from an objective standpoint. The student sees their own potential in the field and can recognize the needs of their know-how for future workplaces and assignments. |
+| Presentation and extra value for the discussion | The presentation is an ordinary list of work. The student can't hold a constructive and analytic discussion with their peers about the presentation. | The student presents their work in organized and analyzed manner. The presentation is interesting and well defined. The student provides extra value for the conversation and brings new points of view to it. | The presentation is captivating and really interesting. The structure of the presentation is clear and its technologically exemplary. The students know-how and pride in the done work shows in exemplary through the presented material. The student is active in the discussion and brings new points of view and elevates the discussion to a higher level.
 
 ## Calendar & Timetable and resources
 
@@ -93,6 +101,11 @@ Self evaluatio and analysis | The student has challenges to show reflective stan
 
 * First day 9.9.
   * Starting time 09:00
+  * Concepting starts
+* 13.9. friday
+  * Concepting ends
+* 16.9.
+  * Groups and to work
 * Something else
 * Something else
 * Week 42 - Autumn break
