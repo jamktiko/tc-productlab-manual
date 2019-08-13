@@ -126,20 +126,15 @@ Contents and execution of portfolio| Has way too much (or too little) content an
 Self evaluation and analysis | The student has challenges to show reflective standpoint to their own learning and know-how. | Reflection of know-how is good. The student recognizes their know-hows development points and those sections which are still shallow. | The students analysis is convincing and deep. The student can look and assess their own work from an objective standpoint. The student sees their own potential in the field and can recognize the needs of their know-how for future workplaces and assignments. |
 | Presentation and extra value for the discussion | The presentation is an ordinary list of work. The student can't hold a constructive and analytic discussion with their peers about the presentation. | The student presents their work in organized and analyzed manner. The presentation is interesting and well defined. The student provides extra value for the conversation and brings new points of view to it. | The presentation is captivating and really interesting. The structure of the presentation is clear and its technologically exemplary. The students know-how and pride in the done work shows in exemplary through the presented material. The student is active in the discussion and brings new points of view and elevates the discussion to a higher level.
 
-## Calendar & Timetable and resources
+## Timetable and resources
 
-10 ECTS = ~15h/week
+During the Product Lab the students will work between 270h and 540h based on their own wishes. The amount of hours you plan to do must be communicated to the group before the production starts. This should also be written into the project plan document. Learning and working will happen at JAMK main campus (Rajakatu 35) at room AP05. The group will plan and decide their working hours together and arrange it so that most people are attending at all times.  
 
-20 ECTS = ~30h/week
+
+* 10 ECTS = ~15h/week
+* 20 ECTS = ~30h/week
 
 * First day 9.9.
-  * Starting time 09:00
-  * Concepting starts
-* 13.9. friday
-  * Concepting ends
-* 16.9.
-  * Groups and to work
-* Something else
 * Something else
 * Week 42 - Autumn break
 * Something else
