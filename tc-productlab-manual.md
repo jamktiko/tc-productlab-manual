@@ -128,8 +128,9 @@ Self evaluation and analysis | The student has challenges to show reflective sta
 
 ## Timetable and resources
 
-During the Product Lab the students will work between 270h and 540h based on their own wishes. The amount of hours you plan to do must be communicated to the group before the production starts. This should also be written into the project plan document. Learning and working will happen at JAMK main campus (Rajakatu 35) at room AP05. The group will plan and decide their working hours together and arrange it so that most people are attending at all times.  
+You will find a detailed calendar with all the communal lectures and events from the TC6 workspace in Optima and from Microsoft Teams. New events will appear as soon as they are arranged and we will try and give enough time to plan the production around these events. 
 
+During the Product Lab the students will work between 270h and 540h based on their own wishes. The amount of hours you are planning to do must be communicated to the group before the production starts. This should also be written into the project plan document. Learning and working will happen at the JAMK main campus (Rajakatu 35) at room AP05. The group will plan and decide their working hours together and arrange it so that most people are attending all times.  
 
 * 10 ECTS = ~15h/week
 * 20 ECTS = ~30h/week
