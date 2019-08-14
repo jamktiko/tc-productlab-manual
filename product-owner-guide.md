@@ -15,13 +15,19 @@ This document is made for and is to be used in Ticorporate environment and the c
 
 ## Project Owner?
 
-The role of Product Owner is critical and often the hardest one in the Scrum team. Judy and Krumins-Beens [1] say that "*The product owner has gone from someone who could blame development if a project failed to someone who is responsible for the success or failure of the project.*" Simply put Product Owner is the person who takes business ideas and requirements and turns those into product backlog but the role is much more than that. Its important to realize that the PO isn't a committee its a single person. Scrum Guide defines that only one person is responsible for maintaining and sustaining the content and priority of the Produt Backlog. If many team members 
+The role of Product Owner is critical and often the hardest one in the Scrum team. Judy and Krumins-Beens [1] say that "*The product owner has gone from someone who could blame development if a project failed to someone who is responsible for the success or failure of the project.*" Simply put Product Owner is the person who takes business ideas and requirements and turns those into a product backlog but the role is much more than that. 
 
-## Scrum Master vs. Product Owner
+The Product Owner must find a balance between the what is good for business, what is his own vision and what can be done in given time. In that way, the Product Owner is the person who connects it all. They negotiate with the stakeholders, they answer the Scrum teams questions and collaborates with the Scrum Master.
 
-The roles of PO and SM complement each other. Product Owner is responsible for what to do and SM is responsible for how to do it.
+It is important to realize that the PO isn't a committee it is a single person. Scrum Guide defines that only one person is responsible for maintaining and sustaining the content and priority of the Product Backlog. If many team members give their inputs to the PB the product loses its vision, business requirements are not met and it opens a great number of problems with different stakeholders. That is not to say that PO can't or shouldn't take input from the team, in fact he should. However PO always has the last word on what goes to backlog and with what priority.
 
+## Scrum Master and Product Owner
 
+The roles of the Product Owner and the Scrum Master complement each other. Product Owner is responsible for what to do and Scrum Master is responsible for how to do it. It is impervious that the two persons have good communication, and that neither tries to step on others toes. 
+
+Scrum Master 
+
+## Scrum Master and Scrum Team
 
 ## Sources
 
