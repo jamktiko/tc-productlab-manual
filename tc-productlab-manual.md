@@ -24,19 +24,18 @@ The course is divided in four separate phases. These are concepting, pre-product
 
 ### Concepting and grouping up
 
+The course starts with concepting and "mingling" part. Since we have groups with ready made concepts, people with ideas and people without ideas the first weeks purpose is to try and match all those people into a group and get them a productive role in the grand scheme of things. 
+
+This week will be quite open ended and the execution will depend on which kind of students are attending the course.
+
+During the week Labmaster and lecturers will be around to assist and give opinions when announced. Labmaster will be there every day at least for few hours. 
+
 #### Monday
 
 The day starts at 09:00 CEST at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course.
 
 When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so. 
 
-#### Tuesday
-
-#### Wednesday
-
-#### Thursday
-
-#### Friday
 
 ### Pre-production
 
@@ -58,13 +57,13 @@ It's also recommended to use the document templates in the provided GitHub repos
 
 ### Production
 
-Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. During production the teams will be able to co-operate with Digi & Game centre project. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies. 
+Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. The schedule and date of these meetings will be announced at a later date by the labmaster. During production the teams will be able to co-operate with Digi & Game centre project. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies. 
 
-The goal of production phase is to build a product or a service which has business [prerequisities** ???]. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develope their project and business plan towards release. 
+The goal of production phase is to build a product or a service which has business prerequisities. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develope their project and business plan towards release. 
 
 ### Post-production
 
-At this stage, project implementation and best practices are collected and reported alongside with the lessons learned from the project for future use. At least the following operations shall be carried out during post-production
+At this stage, project implementation and best practices are collected and reported alongside with the lessons learned from the project for future use. At least the following operations shall be carried out during post-production.
 
 * Pitching competition
 * Project closing report
@@ -76,7 +75,7 @@ At this stage, project implementation and best practices are collected and repor
 
 ### Pitching competition  
 
-The project grade of this Ticorporate Product Lab comes wholly from the pitching competition. It will be judged by BIT lecturers and industry specialists. Time and place will be announced at a later date
+The project grade of this Ticorporate Product Lab comes wholly from the pitching competition. It will be judged by BIT lecturers and industry specialists. Time, date and place will be announced at a later date. 
 
 #### Assessment criteria and guidelines
 
