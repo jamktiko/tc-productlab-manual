@@ -28,7 +28,7 @@ The course is divided in four separate phases. These are concepting, pre-product
 
 The day starts at 09:00 CEST at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course.
 
-When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so. 
+When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
 
 #### Tuesday
 
@@ -58,9 +58,15 @@ It's also recommended to use the document templates in the provided GitHub repos
 
 ### Production
 
-Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. During production the teams will be able to co-operate with Digi & Game centre project. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies. 
+Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. During production the teams will be able to co-operate with Digi & Game centre project. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies.
 
-The goal of production phase is to build a product or a service which has business [prerequisities** ???]. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develope their project and business plan towards release. 
+The goal of production phase is to build a product or a service which has business [prerequisities** ???]. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develope their project and business plan towards release.
+
+#### The Life and Times of ~~Scrooge McDuck~~ the Product Owner
+
+Ticorporate Demo Lab VI focused on Scrum Masters, testers and business people and let the Product Owners on their own. In Product Lab, this is no longer the case. In here we want to give the PO role the guidance and counseling it needs.
+
+You can read more about the role and its responsibilities in the [dedicated guide](product-owner-guide.md).
 
 ### Post-production
 
