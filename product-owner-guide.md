@@ -2,19 +2,21 @@
 
 ## Abbreviations & Explanations
 
-| Abbreviation | Full word | Explanation |
-|---|---|---|
-|SM | Scrum Master |  The person reponsible for the Scrum process and its implementation. Maximizes the benefits of agile developement. |
-|PO | Product Owner |The person responsible for managing the Product Backlog. His role is to maximize the value of the hours spent on the project.|
-|- | Scrum Team|Group of people that is reponsible for managin itself to develop a product, in this context usually software or a game|
-|PB | Product Backlog | Something else|
-|TC | Ticorporate | Ticorporate is a business simulation course, where teams (3-6 people) develop games and software products|
-|DL | Demo Lab | 1st half of Ticorporate. Used to teach students Scrum and groupwork skills alongside tech and art|
-|PL | Product Lab | 2nd half of Ticorporate. Business and entrepreneurship oriented|
+| Abbreviation | Full word                  | Explanation                                                                                                                   |
+| ------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| SM           | Scrum Master               | The person reponsible for the Scrum process and its implementation. Maximizes the benefits of agile developement.             |
+| PO           | Product Owner              | The person responsible for managing the Product Backlog. His role is to maximize the value of the hours spent on the project. |
+| -            | Scrum Team                 | Group of people that is reponsible for managin itself to develop a product, in this context usually software or a game        |
+| PB           | Product Backlog            | Something else                                                                                                                |
+| TC           | Ticorporate                | Ticorporate is a business simulation course, where teams (3-6 people) develop games and software products                     |
+| DL           | Demo Lab                   | 1st half of Ticorporate. Used to teach students Scrum and groupwork skills alongside tech and art                             |
+| PL           | Product Lab                | 2nd half of Ticorporate. Business and entrepreneurship oriented                                                               |
+| DoD          | Definition of done         | When something is done :D                                                                                                     |
+| CoS          | Conditions of satisfaction | When somethins is satisfied |
 
 ## Introduction
 
-This document is made for and is to be used in Ticorporate environment and the contents of this document reflect that. It is **not** a comprehensive nor a perfect guide on how to act as a product owner. The document also assumes that the reader has basic knowledge about agile methods and spesifically Scrum but we will dip into the process too. On that subject we will look at the differences and procedures between Scrum team, Scrum Master and product owner.
+This document is made for and is to be used in Ticorporate environment and the contents of this document reflect that. It is **not** a comprehensive nor a perfect guide on how to act as a product owner. The document also assumes that the reader has basic knowledge about agile methods and spesifically Scrum but we will dip into the process too. On that subject we will look at the differences and procedures between Scrum team, Scrum Master and product owner. 
 
 ## Project Owner?
 
@@ -49,7 +51,7 @@ Lets expand those points a bit!
 
 #### Sprint planning and reviews
 
-#### Definition of Done
+#### Definition of Done & Conditions of satisfaction
 
 Because PO is the bridge between stakeholders, SM, and the Scrum team he must also be the one to negotiate the definition of done. **Agreement on definition of done must happen before a story is broken into tasks**. This is because the stakeholders might expect production level quality when the team thinks that only placeholder art is needed for the feature. That is why definition of done is so important. Product owner can't accept the work if it doesn't satisfy this criteria. If the work *done* isn't actually **done** it causes debt which could, and most likely will, delay the project.
 
