@@ -2,17 +2,18 @@
 
 ## Abbreviations & Explanations
 
-| Abbreviation | Full word                  | Explanation                                                                                                                   |
-| ------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| SM           | Scrum Master               | The person reponsible for the Scrum process and its implementation. Maximizes the benefits of agile developement.             |
-| PO           | Product Owner              | The person responsible for managing the Product Backlog. His role is to maximize the value of the hours spent on the project. |
-| -            | Scrum Team                 | Group of people that is reponsible for managin itself to develop a product, in this context usually software or a game        |
-| PB           | Product Backlog            | Something else                                                                                                                |
-| TC           | Ticorporate                | Ticorporate is a business simulation course, where teams (3-6 people) develop games and software products                     |
-| DL           | Demo Lab                   | 1st half of Ticorporate. Used to teach students Scrum and groupwork skills alongside tech and art                             |
-| PL           | Product Lab                | 2nd half of Ticorporate. Business and entrepreneurship oriented                                                               |
-| DoD          | Definition of done         | When something is done :D                                                                                                     |
-| CoS          | Conditions of satisfaction | When somethins is satisfied |
+| Abbreviation | Full word                  | Explanation                                                                                                                                                                              |
+| ------------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SM           | Scrum Master               | The person reponsible for the Scrum process and its implementation. Maximizes the benefits of agile developement.                                                                        |
+| PO           | Product Owner              | The person responsible for managing the Product Backlog. His role is to maximize the value of the hours spent on the project.                                                            |
+| -            | Scrum Team                 | Group of people that is reponsible for managin itself to develop a product, in this context usually software or a game                                                                   |
+| PB           | Product Backlog            | Something else                                                                                                                                                                           |
+| TC           | Ticorporate                | Ticorporate is a business simulation course, where teams (3-6 people) develop games and software products                                                                                |
+| DL           | Demo Lab                   | 1st half of Ticorporate. Used to teach students Scrum and groupwork skills alongside tech and art                                                                                        |
+| PL           | Product Lab                | 2nd half of Ticorporate. Business and entrepreneurship oriented                                                                                                                          |
+| DoD          | Definition of done         | List of criteria which must be met before the work item is ready to be added to the product                                                                                              |
+| CoS          | Conditions of satisfaction | The conditions under which a product owner would be satisfied that a product backlog item is done. Conditions of satisfaction are acceptance criteria that clarify the desired behavior. |
+| - | Acceptance criteria | Acceptance criteria are a formalized list of requirements that ensure that all user stories are completed and all scenarios are taken into account. Put simply, acceptance criteria specify conditions under which a user story is fulfilled.|
 
 ## Introduction
 
