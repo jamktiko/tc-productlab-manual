@@ -2,7 +2,7 @@
 
 Manual for students and faculty
 
-Versio 0.01
+Versio 0.3
 
 * Labmaster = Teemu
 * Lecturer in Charge = Niko
@@ -34,7 +34,7 @@ When all the formalities are done it's time to start working. During the first d
 
 #### Monday
 
-The day starts at 09:00 CEST at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course.
+The day starts at 09:00 CEST at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have few lectures from industry specialists from game and software companies.
 
 When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
 
@@ -48,7 +48,7 @@ The items that should be delivered during pre-production
 
 * Project plan
 * Business plan
-* Either
+* Either/both
   * Game Design Document
   * Feasibility Study
 
@@ -62,9 +62,13 @@ Will happen in a chosen manner by the group and it will start when the group is 
 
 The goal of production phase is to build a product or a service which has business prerequisities. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develope their project and business plan towards release.
 
+#### Brand packages
+
+During the Product Lab the teams will make brand packages for their products. Jyväskylä University of Applied Sciences will provide the necessary resources for it. The package includes at least a t-shirt, hoodie, some flyers and a roll up. Some of the design elements will be mandated by JAMK.
+
 #### The Life and Times of ~~Scrooge McDuck~~ the Product Owner
 
-Ticorporate Demo Lab VI focused on Scrum Masters, testers and business people and let the Product Owners on their own. In Product Lab, this is no longer the case. In here we want to give the PO role the guidance and counseling it needs.
+Ticorporate Demo Lab focuses on Scrum Masters, testers and business people and let the Product Owners to their own devices. In Product Lab, this is no longer the case. In here we want to give the PO role the guidance and counseling it needs since its the most important one when it comes down to business decisions. You could say that the PO is kinda like the "main customer" of the product.
 
 You can read more about the role and its responsibilities in the [dedicated guide](product-owner-guide.md).
 
@@ -74,7 +78,8 @@ At this stage, project implementation and best practices are collected and repor
 
 * Pitching competition
 * Project closing report
-  * Including contingency  plans
+  * Including contingency plans
+    * Pre-incubator, incubator, etc
 * Release if applicable
 * Creation of personal career portfolio and demonstrations during demonstration day
 
@@ -141,7 +146,5 @@ During the Product Lab the students will work between 270h and 540h based on the
 * 20 ECTS = ~30h/week
 
 * First day 9.9.
-* Something else
 * Week 42 - Autumn break
-* Something else
 * Last day 20.12.

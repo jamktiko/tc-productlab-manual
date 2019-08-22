@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This document is made for and is to be used in Ticorporate environment and the contents of this document reflect that. It is **not** a comprehensive nor a perfect guide on how to act as a product owner. The document also assumes that the reader has basic knowledge about agile methods and spesifically Scrum but we will dip into the process too. On that subject we will look at the differences and procedures between Scrum team, Scrum Master and product owner. 
+This document is made for and is to be used in Ticorporate environment and the contents of this document reflect that. It is **not** a comprehensive nor a perfect guide on how to act as a product owner. The document also assumes that the reader has basic knowledge about agile methods and spesifically Scrum but we will dip into the process too. On that subject we will look at the differences and procedures between Scrum team, Scrum Master and product owner.
 
 ## Project Owner?
 
@@ -34,7 +34,6 @@ X in his book, "Agile Game Development With Scrum" lists the following responsib
 * Managing the ROI (return of interest) for the game
 * Establishing a shared vision for the game among the customers and developers
 * Knowing what to build and in what order
-* Creating release plans and establishing delivery dates
 * Supporting sprint planning and reviews
 * Establishing the "definition of done"
 
@@ -44,13 +43,21 @@ Lets expand those points a bit!
 
 #### Managing the ROI
 
+It is the product owners responsibility that the investment in the product is returned with a profit. Product owner needs to know what the market wants and the customers need. Product owner is the link between marketing, sales and the developer team.
+
 #### Establishing a shared vision
+
+It is really important that the product owner has the ability to share their vision for the product. Without it the product can become a jumbled mess without any clear direction. Shared vision is particularly important in game projects where the project owners (sometimes lead designers) vision is the whole product. Thats not to say that its not important in software products too. You could compare Miyamoto from Nintendo and Jobs from Apple (particularly the 1st iPod and iPhone).
+
+Product owner should be the single voice for the vision. They ignite creativity and ownership within the tieam and collaborates with everyone as the vision evolves.
 
 #### Product backlog
 
-#### Releases
+Product backlog is the product owners property. Product owner decides the priority of the backlog items and what is important and what is not. This is done by looking at which items are most valuable to the customer and which items have the biggest ROI. For example 100% accurate simulation of ballistics might be valuable to the player of a military simulator, but it might be too costly to implement properly. Managing the product backlog is a compromise between, value, ROI and the vision of the product.
 
 #### Sprint planning and reviews
+
+Product owner has few major duties during a sprint. Those include backlog grooming, sprint planning and sprint review.
 
 #### Definition of Done & Conditions of satisfaction
 
@@ -64,10 +71,9 @@ The roles of the product owner and the Scrum Master complement each other. Produ
 
 ### Product Owners at Ticorporate
 
-During the Product Lab the faculty of BIT will arrange lectures and visits from industry members and experts. These will be announced on Microsoft Teams, on class and on the Ticorporate Calendar.  
+During the Product Lab the faculty of BIT will arrange lectures and visits from industry members and experts. These will be announced on Microsoft Teams, on class and on the Ticorporate Calendar.  You could think that the product owner is like the traditional lead designer of the game. According to Clinton[2] this is the case in most game companies which have adopted Scrum.  Lead designers are the ones with the vision for the game, and they usually have the experience in communicating that vision to all disciplines.
 
 ## Sources
 
 1. Great Scrums Need Great Product Owners: Unbounded Collaboration and Collective Product Ownership (2008)
-
-2. List of sources here
+2. Agile game development with Scrum - Clinton Keith (2010)
