@@ -36,7 +36,12 @@ When all the formalities are done it's time to start working. During the first d
 
 The day starts at 09:00 CEST at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have few lectures from industry specialists from game and software companies.
 
-When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
+When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do 
+so.
+
+#### Friday
+
+By Friday everyone should have a group, and a concept which they will start working on.
 
 ### Pre-production
 
