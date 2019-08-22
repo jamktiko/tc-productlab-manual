@@ -43,7 +43,7 @@ so.
 
 By Friday everyone should have a group, and a concept which they will start working on.
 
-### Pre-production
+### Pre-production  
 
 Pre-production starts when the teams are ready. Groups will get to know eachother better and arranges a workspace to their needs and wants. Roles are selected based on the production model choosed. Chosen roles should include at least a Scrum Master, Product Owner and [a person in charge of Business side of things]. However, these roles should be discussed together with the team before starting pre-production.  
 
@@ -96,7 +96,29 @@ The project grade of this Ticorporate Product Lab comes wholly from the pitching
 
 #### Assessment criteria and guidelines
 
-To be decided
+To be decided:
+
+Text under is copypasted from a website :D 
+
+1. The Problem And Solution 
+
+The first thing we look at when evaluating an investment (but not necessarily the most important thing), is the idea and the product. What problem does this product aim to solve? Or what value does it add? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
+
+2. The Business Model And Strategy
+
+If an entrepreneur is able to present a good product or solution, it is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would we sign up customers? How would we monetize the product? What distribution channels are to be used?
+
+3. The Entrepreneur And The Team
+
+This is for sure the most important criteria; ideas and products can change, but the abilities of the entrepreneur to execute and lead is most important. We usually like to invest in projects that have more than one co-founder. We look for a strong team in place with a good track record in execution. We also look for things like energy level, motivation and passion for the product. We favor entrepreneurs that take the bootstrapping route and [who] are willing to go through difficulties in the short-term in order to build a long-term business.
+
+4. The Preparation
+
+When we are presented with a pitch we assess the level of preparation and effort that has been put into the pitch, and this includes the presentation itself and the research done in the background.
+
+5. The Financials
+
+It’s very important for us that the entrepreneur presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
 
 ### Career portfolio
 
