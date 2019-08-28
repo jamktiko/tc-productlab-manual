@@ -10,11 +10,11 @@ Versio 0.3
 
 ## Introduction
 
-Ticorporate business simulation is based on "Information systems project" course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group working towards a common goal. In the autumn of 2013 Information systems project course extended to include theory studies when "Software production", "project management", and "modeling information systems" courses were integrated into it. The newly founded course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to "TC" plus a rolling number. Now we are at TC6.
+Ticorporate business simulation is based on "Information systems project" course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group working towards a common goal. In the autumn of 2013 Information systems project course extended to include theory studies when "Software production", "project management", and "modeling information systems" courses were integrated into it. The newly founded course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to "Ticorporate" plus a rolling number. We use the name TC and Ticorporate interchangeably. At this point in time we are at TC6.
 
-After few yearly incremental upgrades it was decided that Ticorporate as it was is at its end. The course was split in half and that process gave birth to Ticorporate Demolab and Ticorporate Productlab. Year after that, the course was pushed forwards half a year, causing Demolab to start on 2nd year BIT students spring semester and Productlab to start on 3rd year students autumn semester.
+After few yearly incremental upgrades it was decided that Ticorporate as it was is at its end. The course was split in half and that process gave birth to Ticorporate Demo Lab and Ticorporate Product Lab. Year after that, the course was pushed forwards half a year, causing Demo Lab to start on 2nd year BIT students spring semester and Product Lab to start on 3rd year students autumn semester.
 
-Demolab is mandatory for all BIT students and Productlab is a part of elective professional studies. Demolabs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting.
+Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product.
 
 This document is created to describe objectives and activities of Productlab.
 
@@ -34,14 +34,27 @@ When all the formalities are done it's time to start working. During the first d
 
 #### Monday
 
-The day starts at 09:00 CEST at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have few lectures from industry specialists from game and software companies.
+The day starts at 09:00 EEST (Finnish time) at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have few lectures from industry specialists from game and software companies.
 
-When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do 
-so.
+When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
 
-#### Friday
+#### Thursday
 
-By Friday everyone should have a group, and a concept which they will start working on.
+08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on. 
+
+Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criterias. The labmaster will provide further instructions at the start of the meeting
+
+* Can you make money out of the concept
+* How interesting the concept is
+* How much would you want to work on the concept/project
+* Scope and feasibility of the concept
+* How "new" and innovative the concept/idea is
+
+#### Friday or Thursday :D
+
+If this happens Friday, we will gather 12:45 EEST AP05
+
+We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross and 
 
 ### Pre-production  
 
@@ -100,23 +113,23 @@ To be decided:
 
 Text under is copypasted from a website :D 
 
-1. The Problem And Solution 
+##### 1. The Problem And Solution
 
 The first thing we look at when evaluating an investment (but not necessarily the most important thing), is the idea and the product. What problem does this product aim to solve? Or what value does it add? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
 
-2. The Business Model And Strategy
+##### 2. The Business Model And Strategy
 
 If an entrepreneur is able to present a good product or solution, it is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would we sign up customers? How would we monetize the product? What distribution channels are to be used?
 
-3. The Entrepreneur And The Team
+##### 3. The Entrepreneur And The Team
 
-This is for sure the most important criteria; ideas and products can change, but the abilities of the entrepreneur to execute and lead is most important. We usually like to invest in projects that have more than one co-founder. We look for a strong team in place with a good track record in execution. We also look for things like energy level, motivation and passion for the product. We favor entrepreneurs that take the bootstrapping route and [who] are willing to go through difficulties in the short-term in order to build a long-term business.
+This is for sure the most important criteria; ideas and products can change, but the abilities of the entrepreneur to execute and lead is most important. We usually like to invest in projects that have more than one co-founder.  We look for things like energy level, motivation and passion for the product. We favor entrepreneurs that take the bootstrapping route and [who] are willing to go through difficulties in the short-term in order to build a long-term business.
 
-4. The Preparation
+##### 4. The Preparation
 
 When we are presented with a pitch we assess the level of preparation and effort that has been put into the pitch, and this includes the presentation itself and the research done in the background.
 
-5. The Financials
+##### 5. The Financials
 
 It’s very important for us that the entrepreneur presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
 
