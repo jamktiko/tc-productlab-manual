@@ -98,6 +98,17 @@ The project grade of this Ticorporate Product Lab comes wholly from the pitching
 
 To be decided:
 
+TL;DR
+* Liiketoimintaedellytykset
+  * Asiakaskunta
+  * Liiketoimintamalli
+  * Rahaa?
+* Tuote itsessään
+  * Toimiva, hyvä, huono, vakuuttava?
+  * Demo
+* Esitys?
+  * Hyvä, huono, vakuuttava, jne?
+
 Text under is copypasted from a website :D 
 
 1. The Problem And Solution 
