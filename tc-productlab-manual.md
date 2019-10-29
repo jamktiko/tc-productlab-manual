@@ -4,9 +4,8 @@ Manual for students and faculty
 
 Versio 0.3
 
-* Labmaster = Teemu
-* Lecturer in Charge = Niko
-* Lecturers = Niko, Ilari
+* Labmaster = Teemu Pölkki (teemu.polkki@jamk.fi)
+* Lecturer in Charge = Niko Kiviaho (niko.kiviaho@jamk.fi)
 
 ## Introduction
 
@@ -16,7 +15,7 @@ After few yearly incremental upgrades it was decided that Ticorporate as it was 
 
 Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product.
 
-This document is created to describe objectives and activities of Productlab.
+This document is created to describe objectives and activities of Product Lab.
 
 ## Production process
 
@@ -34,15 +33,15 @@ When all the formalities are done it's time to start working. During the first d
 
 #### Monday
 
-The day starts at 09:00 EEST (Finnish time) at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have few lectures from industry specialists from game and software companies.
+The day starts at 08:30 EEST (Finnish time) at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have two lectures from industry specialists from game and software companies.
 
 When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
 
 #### Thursday
 
-08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on. 
+08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on and in what role they would do the said work.
 
-Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criterias. The labmaster will provide further instructions at the start of the meeting
+Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criterias. The labmaster will provide further instructions at the start of the meeting.
 
 * Can you make money out of the concept
 * How interesting the concept is
@@ -50,11 +49,11 @@ Presentations will happen in no particular order and they will be assessed by th
 * Scope and feasibility of the concept
 * How "new" and innovative the concept/idea is
 
-#### Friday or Thursday :D
+#### Friday or Thursday
 
-If this happens Friday, we will gather 12:45 EEST AP05
+If this happens on Friday, we will gather 12:45 EEST o'clock at Rajakatu, room AP05
 
-We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross and 
+We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross and do the work on multiple projects but the working hours must be marked clearly and understandably for each and every project since those hours are the amount of ECTS given to each person.
 
 ### Pre-production  
 
@@ -105,13 +104,12 @@ At this stage, project implementation and best practices are collected and repor
 
 ### Pitching competition  
 
-The project grade of this Ticorporate Product Lab comes wholly from the pitching competition. It will be judged by BIT lecturers and industry specialists. Time, date and place will be announced at a later date.
+The project grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on 18th of December at [ANNOUNCED LATER] on Rajakatu campus.
 
 #### Assessment criteria and guidelines
 
-To be decided:
-
 TL;DR
+
 * Liiketoimintaedellytykset
   * Asiakaskunta
   * Liiketoimintamalli
@@ -121,8 +119,6 @@ TL;DR
   * Demo
 * Esitys?
   * Hyvä, huono, vakuuttava, jne?
-
-Text under is copypasted from a website :D 
 
 ##### 1. The Problem And Solution
 

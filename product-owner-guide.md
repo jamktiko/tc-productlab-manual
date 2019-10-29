@@ -29,7 +29,7 @@ It is important to realize that the PO isn't a committee, it is a role for singl
 
 ### Product Owners responsibilities
 
-X in his book, "Agile Game Development With Scrum" lists the following responsibilities for the product owner as follows:
+Clinton Keith in his book, "Agile Game Development With Scrum" lists the following responsibilities for the product owner as follows:
 
 * Managing the ROI (return of interest) for the game
 * Establishing a shared vision for the game among the customers and developers
@@ -71,7 +71,7 @@ The roles of the product owner and the Scrum Master complement each other. Produ
 
 ### Product Owners at Ticorporate
 
-During the Product Lab the faculty of BIT will arrange lectures and visits from industry members and experts. These will be announced on Microsoft Teams, on class and on the Ticorporate Calendar.  You could think that the product owner is like the traditional lead designer of the game. According to Clinton[2] this is the case in most game companies which have adopted Scrum.  Lead designers are the ones with the vision for the game, and they usually have the experience in communicating that vision to all disciplines.
+During the Product Lab the faculty of BIT will arrange lectures and visits from industry members and experts. These will be announced on Microsoft Teams, on class and on the Ticorporate Calendar. You could think that the product owner is like the traditional lead designer of the game. According to Clinton[2] this is the case in most game companies which have adopted Scrum. Lead designers are the ones with the vision for the game and they usually have the experience in communicating that vision to all disciplines.
 
 ## Sources
 
