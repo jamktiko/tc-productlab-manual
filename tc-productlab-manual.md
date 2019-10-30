@@ -110,7 +110,7 @@ The project grade of this Ticorporate Product Lab comes wholly from the pitching
 
 The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges (BIT staff, industry specialists). 
 
-The presentation/pitch should include at least the vision of the product, team members and the amount of hours put into the project per member and future plans after Product Lab ends. The form of the pitch is open and the team should make 
+The presentation/pitch should include at least the vision of the product, team members and the amount of hours put into the project per member and future plans after Product Lab ends. The form of the pitch is open and the team should make it look like their own. There is no single one blueprint that works. 
 
 #### Assessment criteria and guidelines
 
@@ -128,7 +128,12 @@ Overall quality of the pitch. How well the structure is thought out, as in does 
 
 The level of preparation and effort put into the pitch are also judged.
 
-If the team has a working demo that will also be judged in this category. 
+If the team has a working demo, that will also be judged in this category.
+
+* How representative the demo is of the possible final product
+* How well the demo situation is organized
+* "Wow-factor"
+* How much has been accomplished based on the hours worked on the project
 
 ##### 4. The Financials
 
