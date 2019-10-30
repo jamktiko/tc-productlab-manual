@@ -102,43 +102,58 @@ At this stage, project implementation and best practices are collected and repor
 
 ## Pitching competition, career portfolio and demonstration day
 
+
 ### Pitching competition  
 
 The project grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on 18th of December at [ANNOUNCED LATER] on Rajakatu campus.
+It is an open event which means that the teams can invite quests and that other students may attend it and watch the competition.
 
-#### Assessment criteria and guidelines
+The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges on why they should get a good grade.
 
 TL;DR
 
 * Liiketoimintaedellytykset
   * Asiakaskunta
   * Liiketoimintamalli
-  * Rahaa?
+  * Rahaa
 * Tuote itsessään
   * Toimiva, hyvä, huono, vakuuttava?
   * Demo
 * Esitys?
   * Hyvä, huono, vakuuttava, jne?
+  
+The presentation/pitch should include at least the vision of the product, team members and the amount of hours put into the project per member and future plans after Product Lab ends. The form of the pitch is open and the team should make it look like their own. There is no single one blueprint that works.
+
+#### Assessment criteria and guidelines
 
 ##### 1. The Problem And Solution
 
-The first thing we look at when evaluating an investment (but not necessarily the most important thing), is the idea and the product. What problem does this product aim to solve? Or what value does it add? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
+The first thing we look at when evaluating the grade is the idea and the product. What problem does this product aim to solve or what value does it add on top of existing innovations? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
 
 ##### 2. The Business Model And Strategy
 
-If an entrepreneur is able to present a good product or solution, it is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would we sign up customers? How would we monetize the product? What distribution channels are to be used?
+It is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would they sign up customers? How would they monetize the product? What distribution channels are to be used?
 
-##### 3. The Entrepreneur And The Team
+##### 3. The Preparation and Presentation
 
-This is for sure the most important criteria; ideas and products can change, but the abilities of the entrepreneur to execute and lead is most important. We usually like to invest in projects that have more than one co-founder.  We look for things like energy level, motivation and passion for the product. We favor entrepreneurs that take the bootstrapping route and [who] are willing to go through difficulties in the short-term in order to build a long-term business.
+Overall quality of the pitch. How well the structure is thought out, as in does the information presented make sense to the judge in the order it is presented. How uniform the presentation is. Is there any rough edges or does it all go as planned.
 
-##### 4. The Preparation
+The level of preparation and effort put into the pitch are also judged.
 
-When we are presented with a pitch we assess the level of preparation and effort that has been put into the pitch, and this includes the presentation itself and the research done in the background.
+If the team has a working demo, that will also be judged in this category.
 
-##### 5. The Financials
+* How representative the demo is of the possible final product
+* How well the demo situation is organized
+* "Wow-factor"
+* How much has been accomplished based on the hours worked on the project
 
-It’s very important for us that the entrepreneur presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
+##### 4. The Financials
+
+It’s very important that the team presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
+
+##### 5. The Discussion and Questions
+
+How satisfactionary are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
 
 ### Career portfolio
 
