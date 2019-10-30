@@ -50,11 +50,11 @@ Presentations will happen in no particular order and they will be assessed by th
 * Scope and feasibility of the concept
 * How "new" and innovative the concept/idea is
 
-#### Friday or Thursday :D
+#### Friday or Thursday
 
 If this happens Friday, we will gather 12:45 EEST AP05
 
-We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross and 
+We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross.
 
 ### Pre-production  
 
@@ -103,35 +103,40 @@ At this stage, project implementation and best practices are collected and repor
 
 ## Pitching competition, career portfolio and demonstration day
 
+
 ### Pitching competition  
 
-The project grade of this Ticorporate Product Lab comes wholly from the pitching competition. It will be judged by BIT lecturers and industry specialists. Time, date and place will be announced at a later date.
+The project grade of this Ticorporate Product Lab comes wholly from the pitching competition. It will be judged by BIT lecturers and industry specialists. On the last week of the Product Lab a Shark Tank type pitching competition is held. It is an open event which means that the teams can invite quests and that other students may attend it and watch the competition.
+
+The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges (BIT staff, industry specialists). 
+
+The presentation/pitch should include at least the vision of the product, team members and the amount of hours put into the project per member and future plans after Product Lab ends. The form of the pitch is open and the team should make 
 
 #### Assessment criteria and guidelines
 
-To be decided:
-
-Text under is copypasted from a website :D 
-
 ##### 1. The Problem And Solution
 
-The first thing we look at when evaluating an investment (but not necessarily the most important thing), is the idea and the product. What problem does this product aim to solve? Or what value does it add? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
+The first thing we look at when evaluating the grade is the idea and the product. What problem does this product aim to solve or what value does it add on top of existing innovations? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
 
 ##### 2. The Business Model And Strategy
 
-If an entrepreneur is able to present a good product or solution, it is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would we sign up customers? How would we monetize the product? What distribution channels are to be used?
+It is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would they sign up customers? How would they monetize the product? What distribution channels are to be used?
 
-##### 3. The Entrepreneur And The Team
+##### 3. The Preparation and Presentation
 
-This is for sure the most important criteria; ideas and products can change, but the abilities of the entrepreneur to execute and lead is most important. We usually like to invest in projects that have more than one co-founder.  We look for things like energy level, motivation and passion for the product. We favor entrepreneurs that take the bootstrapping route and [who] are willing to go through difficulties in the short-term in order to build a long-term business.
+Overall quality of the pitch. How well the structure is thought out, as in does the information presented make sense to the judge in the order it is presented. How uniform the presentation is. Is there any rough edges or does it all go as planned.
 
-##### 4. The Preparation
+The level of preparation and effort put into the pitch are also judged.
 
-When we are presented with a pitch we assess the level of preparation and effort that has been put into the pitch, and this includes the presentation itself and the research done in the background.
+If the team has a working demo that will also be judged in this category. 
 
-##### 5. The Financials
+##### 4. The Financials
 
-It’s very important for us that the entrepreneur presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
+It’s very important that the team presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
+
+##### 5. The Discussion and Questions
+
+How satisfactionary are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
 
 ### Career portfolio
 
