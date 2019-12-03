@@ -57,7 +57,7 @@ We will discuss the concepts and assessments together and decide which concepts 
 
 ### Pre-production  
 
-Pre-production starts when the teams are ready. Groups will get to know eachother better and arranges a workspace to their needs and wants. Roles are selected based on the production model choosed. Chosen roles should include at least a Scrum Master, Product Owner and [a person in charge of Business side of things]. However, these roles should be discussed together with the team before starting pre-production.  
+Pre-production starts when the teams are ready. Groups will get to know eachother better and arranges a workspace to their needs and wants. Roles are selected based on the production model choosed. Chosen roles should include at least a Scrum Master, Product Owner and [a person in charge of Business side of things]. However, these roles should be discussed together.  
 
 When the roles and workstations are clear the groups will move on to the pre-production tasks. Pre-production can take as long as the group needs, but it shouldn't take too much time. Usually a full week should be enough. Labmaster (or Lecturer in Charge) will go through the pre-production material and discuss with the team about their findings.
 
@@ -81,7 +81,7 @@ The goal of production phase is to build a product or a service which has busine
 
 #### Brand packages
 
-During the Product Lab the teams will make brand packages for their products. Jyväskylä University of Applied Sciences will provide the necessary resources for it. The package includes at least a t-shirt, hoodie, some flyers and a roll up. Some of the design elements will be mandated by JAMK.
+During the Product Lab the teams will make brand packages for their products. Jyväskylä University of Applied Sciences will provide the necessary resources for it. The package includes at least a t-shirt, hoodie, some business cards and a roll up. Some of the design elements will be mandated by JAMK.
 
 #### The Life and Times of ~~Scrooge McDuck~~ the Product Owner
 
@@ -102,56 +102,49 @@ At this stage, project implementation and best practices are collected and repor
 
 ## Pitching competition, career portfolio and demonstration day
 
-
 ### Pitching competition  
 
-The project grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on 18th of December at [ANNOUNCED LATER] on Rajakatu campus.
-It is an open event which means that the teams can invite quests and that other students may attend it and watch the competition.
+The project grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on 18th of December at Kasvosali (C119) on Rajakatu campus.
+It is an open event which means that the teams can invite quests and that other students may attend it and watch the pitches.
 
 The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges on why they should get a good grade.
 
-TL;DR
-
-* Liiketoimintaedellytykset
-  * Asiakaskunta
-  * Liiketoimintamalli
-  * Rahaa
-* Tuote itsessään
-  * Toimiva, hyvä, huono, vakuuttava?
-  * Demo
-* Esitys?
-  * Hyvä, huono, vakuuttava, jne?
-  
 The presentation/pitch should include at least the vision of the product, team members and the amount of hours put into the project per member and future plans after Product Lab ends. The form of the pitch is open and the team should make it look like their own. There is no single one blueprint that works.
 
 #### Assessment criteria and guidelines
 
-##### 1. The Problem And Solution
+##### 1. The Big Idea
 
-The first thing we look at when evaluating the grade is the idea and the product. What problem does this product aim to solve or what value does it add on top of existing innovations? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
+The first thing we look at when evaluating the grade is the idea and the vision of the product. What problem does this product aim to solve or what value does it add on top of existing innovations? Does the product or solution proposed solve that problem and to what degree? What is the big vision of the product?
 
-##### 2. The Business Model And Strategy
+##### 2. The business model and strategy
 
-It is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would they sign up customers? How would they monetize the product? What distribution channels are to be used?
+It is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would the team sign up customers? How would the team monetize the product? What distribution channels are to be used? What is the timeline or schedule from this point forwards to achieve those results?
 
-##### 3. The Preparation and Presentation
+##### 3. The financials
+
+It’s very important that the team presents and fully understands their financial numbers and projections, and is able to defend their assumptions of the business model presented.
+
+##### 4. The product itself
+
+In which state the product itself is now. Is there any dissonance between the presentation and what the judges perceive the product to be or is it in line with the presentation?  
+
+##### 5. Competitive advantage
+
+Has the team done thorough competitor analysis? Do they understand their competitors and their products & the advantages & disadvantages of those compared to the team.
+
+##### 5. The preparation and presentation
 
 Overall quality of the pitch. How well the structure is thought out, as in does the information presented make sense to the judge in the order it is presented. How uniform the presentation is. Is there any rough edges or does it all go as planned.
 
 The level of preparation and effort put into the pitch are also judged.
 
-If the team has a working demo, that will also be judged in this category.
-
 * How representative the demo is of the possible final product
-* How well the demo situation is organized
+* How well the demo/testing situation is organized (if applicable)
 * "Wow-factor"
 * How much has been accomplished based on the hours worked on the project
 
-##### 4. The Financials
-
-It’s very important that the team presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
-
-##### 5. The Discussion and Questions
+##### 6. The Discussion and Questions
 
 How satisfactionary are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
 
