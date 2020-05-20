@@ -1,22 +1,20 @@
-# TC6 - Productlab
+# TC7 - Product lab
 
 Manual for students and faculty
 
-Versio 0.3
+Version 0.4
 
-* Labmaster = Teemu
-* Lecturer in Charge = Niko
-* Lecturers = Niko, Ilari
+* Labmaster & Lecturer in Charge = Teemu
 
 ## Introduction
 
-Ticorporate business simulation is based on "Information systems project" course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group working towards a common goal. In the autumn of 2013 Information systems project course extended to include theory studies when "Software production", "project management", and "modeling information systems" courses were integrated into it. The newly founded course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to "Ticorporate" plus a rolling number. We use the name TC and Ticorporate interchangeably. At this point in time we are at TC6.
+Ticorporate business simulation is based on "Information systems project" course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group working towards a common goal. In the autumn of 2013 Information systems project course extended to include theory studies when "Software production", "project management", and "modelling information systems" courses were integrated into it. The newly founded course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to "Ticorporate" plus a rolling number. We use the name TC and Ticorporate interchangeably. At this point in time we are at TC6.
 
 After few yearly incremental upgrades it was decided that Ticorporate as it was is at its end. The course was split in half and that process gave birth to Ticorporate Demo Lab and Ticorporate Product Lab. Year after that, the course was pushed forwards half a year, causing Demo Lab to start on 2nd year BIT students spring semester and Product Lab to start on 3rd year students autumn semester.
 
 Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product.
 
-This document is created to describe objectives and activities of Productlab.
+This document is created to describe objectives and activities of Product lab.
 
 ## Production process
 
@@ -40,9 +38,9 @@ When all the formalities are done it's time to start working. During the first d
 
 #### Thursday
 
-08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on. 
+08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on.
 
-Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criterias. The labmaster will provide further instructions at the start of the meeting
+Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criteria. The labmaster will provide further instructions at the start of the meeting
 
 * Can you make money out of the concept
 * How interesting the concept is
@@ -58,7 +56,7 @@ We will discuss the concepts and assessments together and decide which concepts 
 
 ### Pre-production  
 
-Pre-production starts when the teams are ready. Groups will get to know eachother better and arranges a workspace to their needs and wants. Roles are selected based on the production model choosed. Chosen roles should include at least a Scrum Master, Product Owner and [a person in charge of Business side of things]. However, these roles should be discussed together with the team before starting pre-production.  
+Pre-production starts when the teams are ready. Groups will get to know each other better and arranges a workspace to their needs and wants. Roles are selected based on the production model chosen. Chosen roles should include at least a Scrum Master, Product Owner and [a person in charge of Business side of things]. However, these roles should be discussed together with the team before starting pre-production.  
 
 When the roles and workstations are clear the groups will move on to the pre-production tasks. Pre-production can take as long as the group needs, but it shouldn't take too much time. Usually a full week should be enough. Labmaster (or Lecturer in Charge) will go through the pre-production material and discuss with the team about their findings.
 
@@ -86,7 +84,7 @@ During the Product Lab the teams will make brand packages for their products. Jy
 
 #### The Life and Times of ~~Scrooge McDuck~~ the Product Owner
 
-Ticorporate Demo Lab focuses on Scrum Masters, testers and business people and let the Product Owners to their own devices. In Product Lab, this is no longer the case. In here we want to give the PO role the guidance and counseling it needs since its the most important one when it comes down to business decisions. You could say that the PO is kinda like the "main customer" of the product.
+Ticorporate Demo Lab focuses on Scrum Masters, testers and business people and let the Product Owners to their own devices. In Product Lab, this is no longer the case. In here we want to give the PO role the guidance and counselling it needs since its the most important one when it comes down to business decisions. You could say that the PO is kind of like the "main customer" of the product.
 
 You can read more about the role and its responsibilities in the [dedicated guide](product-owner-guide.md).
 
@@ -103,14 +101,13 @@ At this stage, project implementation and best practices are collected and repor
 
 ## Pitching competition, career portfolio and demonstration day
 
-
 ### Pitching competition  
 
 The project grade of this Ticorporate Product Lab comes wholly from the pitching competition. It will be judged by BIT lecturers and industry specialists. On the last week of the Product Lab a Shark Tank type pitching competition is held. It is an open event which means that the teams can invite quests and that other students may attend it and watch the competition.
 
-The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges (BIT staff, industry specialists). 
+The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges (BIT staff, industry specialists).
 
-The presentation/pitch should include at least the vision of the product, team members and the amount of hours put into the project per member and future plans after Product Lab ends. The form of the pitch is open and the team should make it look like their own. There is no single one blueprint that works. 
+The presentation/pitch should include at least the vision of the product, team members and the amount of hours put into the project per member and future plans after Product Lab ends. The form of the pitch is open and the team should make it look like their own. There is no single one blueprint that works.
 
 #### Assessment criteria and guidelines
 
@@ -141,11 +138,11 @@ It’s very important that the team presents and fully understands his financial
 
 ##### 5. The Discussion and Questions
 
-How satisfactionary are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
+How satisfactory are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
 
 ### Career portfolio
 
-The aim of the career portfolio is to show acquired skills with a view to applying for jobs in the field. In practice, there should be two parts one's own skills and a self-assessment. A comprehensive and representative collection of samples of the work done during the course is selected for the career portfolio. The career  portfolio is compiled from the base portfolio. During the course, the student collects all the material related to their know-how: essays, abstracts, reports, drafts and intermediate work, in addition to the actual work. In addition, it is a good idea to store all feedback and evaluations, self-assessments and analyzes, notes, concept maps, pictures and photos, learning diaries, or other logs of this kind in your basic portfolio. Although the evaluation only measures the implementation and presentation of the career portfolio, the basic portfolio is a good tool and it describes the development of individual skills over time. If the basic portfolio is done well and carefully, it can be used to assess and analyze the development of one's own skills.
+The aim of the career portfolio is to show acquired skills with a view to applying for jobs in the field. In practice, there should be two parts one's own skills and a self-assessment. A comprehensive and representative collection of samples of the work done during the course is selected for the career portfolio. The career  portfolio is compiled from the base portfolio. During the course, the student collects all the material related to their know-how: essays, abstracts, reports, drafts and intermediate work, in addition to the actual work. In addition, it is a good idea to store all feedback and evaluations, self-assessments and analyses, notes, concept maps, pictures and photos, learning diaries, or other logs of this kind in your basic portfolio. Although the evaluation only measures the implementation and presentation of the career portfolio, the basic portfolio is a good tool and it describes the development of individual skills over time. If the basic portfolio is done well and carefully, it can be used to assess and analyse the development of one's own skills.
 
 In the career portfolio, the student tells about their own skills and it describes the student's strengths, views and areas for further study. As an appendix to this analysis, the student attaches samples of the best work (and/or what they are the proudest of) they have done for the project. What is noteworthy, especially for game content creators, is the fact that employers often want to see the workflow and intermediate results in career portfolios, not just the end results.
 
@@ -167,7 +164,7 @@ There are many ways to build a career portfolio. It can be a standard directory 
 
 The career portfolios will be presented on the demonstration day. The goal of the day is to make everyone's skills and their development are visible and assessed. There are three main areas in which the students are assessed. Technology, content production and business. Each student participates in only one depending on the subject in which they have mainly done their work in. Each student has 30min to convince the panel of their expertise. 20min for portfolio presentation and 10min for discussion and questions. The jury consist of relevant BIT staff.
 
-#### Exeution of demonstration day
+#### Execution of demonstration day
 
 Implementation proceeds according to the following process
 
@@ -177,14 +174,14 @@ Implementation proceeds according to the following process
 4. The student presents their portfolio as described in the previous subchapter and agreed upon with the teacher/labmaster/coach.
 5. The jury will make an assessment decision and write the feedback in the return folder.
 
-### Assesment criteria for career portfolio
+### Assessment criteria for career portfolio
 
 |Subject of assessment|Sufficient|Good|Excellent|
 |---|---|---|---|
 Contents and execution of portfolio| Has way too much (or too little) content and is a confusing pile of work. Doesn't convince. | Quite ok! Brings out the students know-how through selected work. Presentation type is ordinary. | Interesting and displays the students know-how excellently. Appears to possible employer in a positive and exemplary way.
 | Know-how | Demonstration shows that the students know-how is only a little bit better than at the start of the course, or from a very narrow field. Development of the students know-how is only barely visible. Challenges in achieving set targets. | Evolution of the students know-how and investment in learning can be seen from the portfolio. The student has managed to achieve most of the  set targets.| The learning curve of the students know-how is clearly visible from the presentation. The student is proud of their achievements and displays exemplary exhibition of conquering achievements. |
 Self evaluation and analysis | The student has challenges to show reflective standpoint to their own learning and know-how. | Reflection of know-how is good. The student recognizes their know-hows development points and those sections which are still shallow. | The students analysis is convincing and deep. The student can look and assess their own work from an objective standpoint. The student sees their own potential in the field and can recognize the needs of their know-how for future workplaces and assignments. |
-| Presentation and extra value for the discussion | The presentation is an ordinary list of work. The student can't hold a constructive and analytic discussion with their peers about the presentation. | The student presents their work in organized and analyzed manner. The presentation is interesting and well defined. The student provides extra value for the conversation and brings new points of view to it. | The presentation is captivating and really interesting. The structure of the presentation is clear and its technologically exemplary. The students know-how and pride in the done work shows in exemplary through the presented material. The student is active in the discussion and brings new points of view and elevates the discussion to a higher level.
+| Presentation and extra value for the discussion | The presentation is an ordinary list of work. The student can't hold a constructive and analytic discussion with their peers about the presentation. | The student presents their work in organized and analysed manner. The presentation is interesting and well defined. The student provides extra value for the conversation and brings new points of view to it. | The presentation is captivating and really interesting. The structure of the presentation is clear and its technologically exemplary. The students know-how and pride in the done work shows in exemplary through the presented material. The student is active in the discussion and brings new points of view and elevates the discussion to a higher level.
 
 ## Timetable and resources
 
@@ -195,6 +192,6 @@ During the Product Lab the students will work between 270h and 540h based on the
 * 10 ECTS = ~15h/week
 * 20 ECTS = ~30h/week
 
-* First day 9.9.
+* First day TBA
 * Week 42 - Autumn break
-* Last day 20.12.
+* Last day TBA

@@ -1,4 +1,4 @@
-# Ticorporate Product Lab VI - II/2019
+# Ticorporate Product Lab VII - II/2020
 
 This repository contains the handbook for the Ticorporate Product Lab.
 
