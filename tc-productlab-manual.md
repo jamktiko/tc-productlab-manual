@@ -4,7 +4,12 @@ Manual for students and faculty
 
 Version 0.4
 
+<<<<<<< HEAD
 * Labmaster & Lecturer in Charge = Teemu
+=======
+* Labmaster = Teemu Pölkki (teemu.polkki@jamk.fi)
+* Lecturer in Charge = Niko Kiviaho (niko.kiviaho@jamk.fi)
+>>>>>>> b5495e4f88ba1f7ca6aebe902180636b2e3089e7
 
 ## Introduction
 
@@ -14,7 +19,11 @@ After few yearly incremental upgrades it was decided that Ticorporate as it was 
 
 Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product.
 
+<<<<<<< HEAD
 This document is created to describe objectives and activities of Product lab.
+=======
+This document is created to describe objectives and activities of Product Lab.
+>>>>>>> b5495e4f88ba1f7ca6aebe902180636b2e3089e7
 
 ## Production process
 
@@ -32,15 +41,15 @@ When all the formalities are done it's time to start working. During the first d
 
 #### Monday
 
-The day starts at 09:00 EEST (Finnish time) at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have few lectures from industry specialists from game and software companies.
+The day starts at 08:30 EEST (Finnish time) at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have two lectures from industry specialists from game and software companies.
 
 When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
 
 #### Thursday
 
-08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on.
+08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on and in what role they would do the said work.
 
-Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criteria. The labmaster will provide further instructions at the start of the meeting
+Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criteria. The labmaster will provide further instructions at the start of the meeting.
 
 * Can you make money out of the concept
 * How interesting the concept is
@@ -50,9 +59,9 @@ Presentations will happen in no particular order and they will be assessed by th
 
 #### Friday or Thursday
 
-If this happens Friday, we will gather 12:45 EEST AP05
+If this happens on Friday, we will gather 12:45 EEST o'clock at Rajakatu, room AP05
 
-We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross.
+We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross and do the work on multiple projects but the working hours must be marked clearly and understandably for each and every project since those hours are the amount of ECTS given to each person.
 
 ### Pre-production  
 
@@ -76,11 +85,11 @@ It's also recommended to use the document templates in the provided GitHub repos
 
 Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. The schedule and date of these meetings will be announced at a later date by the labmaster. During production the teams will be able to co-operate with Digi & Game centre project. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies.
 
-The goal of production phase is to build a product or a service which has business prerequisities. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develope their project and business plan towards release.
+The goal of production phase is to build a product or a service which has business prerequisites. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develop their project and business plan towards release.
 
 #### Brand packages
 
-During the Product Lab the teams will make brand packages for their products. Jyväskylä University of Applied Sciences will provide the necessary resources for it. The package includes at least a t-shirt, hoodie, some flyers and a roll up. Some of the design elements will be mandated by JAMK.
+During the Product Lab the teams will make brand packages for their products. Jyväskylä University of Applied Sciences will provide the necessary resources for it. The package includes at least a t-shirt, hoodie, some business cards and a roll up. Some of the design elements will be mandated by JAMK.
 
 #### The Life and Times of ~~Scrooge McDuck~~ the Product Owner
 
@@ -103,7 +112,8 @@ At this stage, project implementation and best practices are collected and repor
 
 ### Pitching competition  
 
-The project grade of this Ticorporate Product Lab comes wholly from the pitching competition. It will be judged by BIT lecturers and industry specialists. On the last week of the Product Lab a Shark Tank type pitching competition is held. It is an open event which means that the teams can invite quests and that other students may attend it and watch the competition.
+The project grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on 18th of December at Kasvosali (C119) on Rajakatu campus.
+It is an open event which means that the teams can invite quests and that other students may attend it and watch the pitches.
 
 The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges (BIT staff, industry specialists).
 
@@ -111,32 +121,38 @@ The presentation/pitch should include at least the vision of the product, team m
 
 #### Assessment criteria and guidelines
 
-##### 1. The Problem And Solution
+##### 1. The Big Idea
 
-The first thing we look at when evaluating the grade is the idea and the product. What problem does this product aim to solve or what value does it add on top of existing innovations? Does the product or solution proposed solve that problem and to what degree? Would there be a big market for this product or idea?
+The first thing we look at when evaluating the grade is the idea and the vision of the product. What problem does this product aim to solve or what value does it add on top of existing innovations? Does the product or solution proposed solve that problem and to what degree? What is the big vision of the product?
 
-##### 2. The Business Model And Strategy
+##### 2. The business model and strategy
 
-It is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would they sign up customers? How would they monetize the product? What distribution channels are to be used?
+It is important to be able to present a well thought-out strategy and roadmap for execution and achieving growth. Which markets are to be targeted? What is the business model? How would the team sign up customers? How would the team monetize the product? What distribution channels are to be used? What is the timeline or schedule from this point forwards to achieve those results?
 
-##### 3. The Preparation and Presentation
+##### 3. The financials
+
+It’s very important that the team presents and fully understands their financial numbers and projections, and is able to defend their assumptions of the business model presented.
+
+##### 4. The product itself
+
+In which state the product itself is now. Is there any dissonance between the presentation and what the judges perceive the product to be or is it in line with the presentation?  
+
+##### 5. Competitive advantage
+
+Has the team done thorough competitor analysis? Do they understand their competitors and their products & the advantages & disadvantages of those compared to the team.
+
+##### 5. The preparation and presentation
 
 Overall quality of the pitch. How well the structure is thought out, as in does the information presented make sense to the judge in the order it is presented. How uniform the presentation is. Is there any rough edges or does it all go as planned.
 
 The level of preparation and effort put into the pitch are also judged.
 
-If the team has a working demo, that will also be judged in this category.
-
 * How representative the demo is of the possible final product
-* How well the demo situation is organized
+* How well the demo/testing situation is organized (if applicable)
 * "Wow-factor"
 * How much has been accomplished based on the hours worked on the project
 
-##### 4. The Financials
-
-It’s very important that the team presents and fully understands his financial numbers and projections, and is able to defend their assumptions of the business model presented.
-
-##### 5. The Discussion and Questions
+##### 6. The Discussion and Questions
 
 How satisfactory are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
 
