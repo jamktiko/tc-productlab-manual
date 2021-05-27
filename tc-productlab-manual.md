@@ -31,6 +31,8 @@ As prerequisites you should possess skills in one or more key areas. Content pro
 
 As of Product Lab 8 the application is used to gauge interest in joining the course. Based on the responses there, the Labmaster will be contacting industry specialists to join Product Lab as coaches. You can join the first lecture even if you have not filled the application form, but doing so is heavily recommended if you plan on participating. You can find the application form from here: Enrolment for the Product Lab VII happens is open from 2nd of August to 5th of September. 
 
+Application link is available [here](https://www.bit.ly/tcproductlab)
+
 ## Production process
 
 The course is divided in four separate phases. These are concepting, pre-production, production and post-production.
