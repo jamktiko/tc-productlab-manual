@@ -1,29 +1,35 @@
-# TC7 - Product lab
+# TC8 - Product lab
 
-Manual for students and faculty
+This is a Product Lab -handbook for students, coaches, faculty and anyone interested.
 
-Version 0.4
+Version 0.5 _BETA_
 
-<<<<<<< HEAD
-* Labmaster & Lecturer in Charge = Teemu
-=======
-* Labmaster = Teemu Pölkki (teemu.polkki@jamk.fi)
-* Lecturer in Charge = Niko Kiviaho (niko.kiviaho@jamk.fi)
->>>>>>> b5495e4f88ba1f7ca6aebe902180636b2e3089e7
+* Labmaster & Lecturer in Charge = Teemu Pölkki (teemu.polkki@jamk.fi)
 
 ## Introduction
 
-Ticorporate business simulation is based on "Information systems project" course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group working towards a common goal. In the autumn of 2013 Information systems project course extended to include theory studies when "Software production", "project management", and "modelling information systems" courses were integrated into it. The newly founded course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to "Ticorporate" plus a rolling number. We use the name TC and Ticorporate interchangeably. At this point in time we are at TC6.
+Ticorporate Labs are based on olden golden "Information Systems Project" -course, which has been part of Business Information Technologies degree programme from the start. Its purpose was to teach how to build information systems and how to do it as a part of a project group working towards a common goal. In the autumn of 2013 "Information Systems Project" -course was extended to include theory studies, when "Software production", "project management", and "modelling information systems" courses were integrated into it. The newly founded course was named Ticorporate and its first iteration was called "Ticorporate MXIII". After the first Ticorporate the name was shortened to "Ticorporate" plus a rolling number. We use the name TC and Ticorporate interchangeably. At this point in time we are at TC8.
 
 After few yearly incremental upgrades it was decided that Ticorporate as it was is at its end. The course was split in half and that process gave birth to Ticorporate Demo Lab and Ticorporate Product Lab. Year after that, the course was pushed forwards half a year, causing Demo Lab to start on 2nd year BIT students spring semester and Product Lab to start on 3rd year students autumn semester.
 
-Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product.
+Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product. 
 
-<<<<<<< HEAD
-This document is created to describe objectives and activities of Product lab.
-=======
-This document is created to describe objectives and activities of Product Lab.
->>>>>>> b5495e4f88ba1f7ca6aebe902180636b2e3089e7
+**This document is created to describe objectives and activities of Product Lab.**
+
+## Application phase
+
+### Pre-requirements
+
+Two most important pre-requirements in Product Lab are:
+
+* Self leadership skills
+* Independency
+
+As prerequisites you should possess skills in one or more key areas. Content production is the first meaning you should be able to create either content using 2D or 3D tools, or be able to create special effects (particles, shader graph, etc) or know how to create beautiful UI's and good UX. Second key are is business skills. This means marketing, sales, product development, pitching and everything relating to that. It can also be entrepreneurship skills or experience. Third key area is technological skills. This means programming, testing, cloud or on-prem infrastructure. It can also mean tech art. On top of all these you should have some experience on working in a project and some project development skills.
+
+### Application 
+
+As of Product Lab 8 the application is used to gauge interest in joining the course. Based on the responses there, the Labmaster will be contacting industry specialists to join Product Lab as coaches. You can join the first lecture even if you have not filled the application form, but doing so is heavily recommended if you plan on participating. You can find the application form from here: Enrolment for the Product Lab VII happens is open from 2nd of August to 5th of September. 
 
 ## Production process
 
@@ -31,23 +37,19 @@ The course is divided in four separate phases. These are concepting, pre-product
 
 ### Concepting and grouping up
 
-The course starts with concepting and "mingling" part. Since we have groups with ready made concepts, people with ideas and people without ideas the first weeks purpose is to try and match all those people into a group and get them a productive role in the grand scheme of things.
+The course starts with concepting and "mingling" part. Since we have groups with ready made concepts, people with ideas and people without ideas the first weeks purpose is to try and match all those people into a group and get them a productive role in the grand scheme of things. This week will be quite open ended and the execution will depend on which kind of students are attending the course. 
 
-This week will be quite open ended and the execution will depend on which kind of students are attending the course.
+During the week Labmaster, some faculty and the team coaches will be around to assist and coach the teams. The Labmaster will be available for few hours a day. 
 
-During the week Labmaster and lecturers will be around to assist and give opinions when announced. Labmaster will be there every day at least for few hours.
+#### First day of Ticorporate Product Lab VIII
 
-When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
+Tuesday 31st of August we start at 14:00 EEST (Finnish time) at Digi & Game Center at Matarankatu. The Lecturer in Charge (or Labmaster) will give introductory speech to Ticorporate, and go through the structure, assessment, deliverables and give general information about the course. Depending a bit on the schedules, the team coaches will be introducing themselves here as well.
 
-#### Monday
+When all the formalities are done it's time to start working. During the first day the students should introduce themselves to other students and get to know each other. This can be done via multitude of methods. This is the place in time where the students whom have a ready made idea (or a ready made demo, created in Demo Lab) should introduce it to other students as well. Those who don't have a group, (and possibly have ideas) should try and organically create groups or pairs where they can create a new product concept for new game or application/service.
 
-The day starts at 08:30 EEST (Finnish time) at AP05 in Rajakatu campus. The Lecturer in Charge (or Labmaster) will say a few words an go through the structure, assessment, deliverables and anything else about the course. We will also have two lectures from industry specialists from game and software companies.
+#### Gate 1
 
-When all the formalities are done it's time to start working. During the first day the students which have a certain ready made idea in mind and those who don't have any definitive idea. Those who would like to make a concept for completely new game or application/service are allowed to do so.
-
-#### Thursday
-
-08:45 EEST we will all gather to AP05 to hear the first product ideas. We will have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and idea what kind of product they would like to work on and in what role they would do the said work.
+On [DATE TBA] at [TIME TBA] (a few days after the start, most likely Friday) will all gather to Digi & Game Center to hear the first product ideas. We might have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and/or idea on what kind of product they would like to work on and in what role they would do the said work.
 
 Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criteria. The labmaster will provide further instructions at the start of the meeting.
 
@@ -57,17 +59,14 @@ Presentations will happen in no particular order and they will be assessed by th
 * Scope and feasibility of the concept
 * How "new" and innovative the concept/idea is
 
-#### Friday or Thursday
+After the initial pitches, we will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. This is where we organically create the groups for the concepts. Remember, you are not entitled to a group. The agreement to join a group must be mutual. You can complete the course as a "one person group" if you so wish. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross and do the work on multiple projects but the working hours must be marked clearly and understandably for each and every project since those hours are the amount of ECTS given to each person. 
 
-If this happens on Friday, we will gather 12:45 EEST o'clock at Rajakatu, room AP05
 
-We will discuss the concepts and assessments together and decide which concepts are the ones we are going forwards with. After this discussion, we should have X amount of projects which have defined groups. People can work crisscross and do the work on multiple projects but the working hours must be marked clearly and understandably for each and every project since those hours are the amount of ECTS given to each person.
-
-### Pre-production  
+### Pre-production
 
 Pre-production starts when the teams are ready. Groups will get to know each other better and arranges a workspace to their needs and wants. Roles are selected based on the production model chosen. Chosen roles should include at least a Scrum Master, Product Owner and [a person in charge of Business side of things]. However, these roles should be discussed together with the team before starting pre-production.  
 
-When the roles and workstations are clear the groups will move on to the pre-production tasks. Pre-production can take as long as the group needs, but it shouldn't take too much time. Usually a full week should be enough. Labmaster (or Lecturer in Charge) will go through the pre-production material and discuss with the team about their findings.
+When the roles and workstations are clear the groups will move on to the pre-production tasks. Pre-production can take as long as the group needs, but it shouldn't take too much time. Week, two or three should be enough. Labmaster and coaches will go through the pre-production material and discuss with the team about their findings.
 
 The items that should be delivered during pre-production
 
@@ -83,19 +82,21 @@ It's also recommended to use the document templates in the provided GitHub repos
 
 ### Production
 
-Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. The schedule and date of these meetings will be announced at a later date by the labmaster. During production the teams will be able to co-operate with Digi & Game centre project. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies.
+Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. The schedule and date of these meetings will be announced at a later date by the labmaster. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies. 
+
+The production phase should aim to produce some amount of complete work. It is up to the team to decide wether they want to:
+
+* Create a vertical slice of a game
+* Create a prototype of a game or a product
+* Complete/polish a ready made demo
+* Something akin to this
 
 The goal of production phase is to build a product or a service which has business prerequisites. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develop their project and business plan towards release.
 
 #### Brand packages
 
-During the Product Lab the teams will make brand packages for their products. Jyväskylä University of Applied Sciences will provide the necessary resources for it. The package includes at least a t-shirt, hoodie, some business cards and a roll up. Some of the design elements will be mandated by JAMK.
+During the Product Lab the teams will make brand packages for their products. Jyväskylä University of Applied Sciences will provide the necessary resources for it. The package includes at least a t-shirt, hoodie, some business cards and a roll up. Some of the design elements will be mandated by JAMK. 
 
-#### The Life and Times of ~~Scrooge McDuck~~ the Product Owner
-
-Ticorporate Demo Lab focuses on Scrum Masters, testers and business people and let the Product Owners to their own devices. In Product Lab, this is no longer the case. In here we want to give the PO role the guidance and counselling it needs since its the most important one when it comes down to business decisions. You could say that the PO is kind of like the "main customer" of the product.
-
-You can read more about the role and its responsibilities in the [dedicated guide](product-owner-guide.md).
 
 ### Post-production
 
@@ -106,13 +107,13 @@ At this stage, project implementation and best practices are collected and repor
   * Including contingency plans
     * Pre-incubator, incubator, etc
 * Release if applicable
-* Creation of personal career portfolio and demonstrations during demonstration day
 
 ## Pitching competition, career portfolio and demonstration day
 
 ### Pitching competition  
 
-The project grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on 18th of December at Kasvosali (C119) on Rajakatu campus.
+The grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on [DATE TBA] at [PLACE TBA, most likely DGC]
+
 It is an open event which means that the teams can invite quests and that other students may attend it and watch the pitches.
 
 The teams have around an hour to present their business idea & achievements during Product Lab and convince the judges (BIT staff, industry specialists).
@@ -156,58 +157,12 @@ The level of preparation and effort put into the pitch are also judged.
 
 How satisfactory are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
 
-### Career portfolio
-
-The aim of the career portfolio is to show acquired skills with a view to applying for jobs in the field. In practice, there should be two parts one's own skills and a self-assessment. A comprehensive and representative collection of samples of the work done during the course is selected for the career portfolio. The career  portfolio is compiled from the base portfolio. During the course, the student collects all the material related to their know-how: essays, abstracts, reports, drafts and intermediate work, in addition to the actual work. In addition, it is a good idea to store all feedback and evaluations, self-assessments and analyses, notes, concept maps, pictures and photos, learning diaries, or other logs of this kind in your basic portfolio. Although the evaluation only measures the implementation and presentation of the career portfolio, the basic portfolio is a good tool and it describes the development of individual skills over time. If the basic portfolio is done well and carefully, it can be used to assess and analyse the development of one's own skills.
-
-In the career portfolio, the student tells about their own skills and it describes the student's strengths, views and areas for further study. As an appendix to this analysis, the student attaches samples of the best work (and/or what they are the proudest of) they have done for the project. What is noteworthy, especially for game content creators, is the fact that employers often want to see the workflow and intermediate results in career portfolios, not just the end results.
-
-It is a good idea to start the portfolio building with a learning plan. **What can I do now** and **what will I learn** during the course? This plan will make your work goal-oriented and help you critically examine your own work. After that, the student should actively collect material for their basic portfolio according to their own plan. It is also advisable to maintain active self-evaluation (similar to a learning diary), where the student is an active participant in the development of their own skills. Towards the end of the course, the student builds their own career portfolio and builds it on the basis of the final presentation day. The demonstration and the career portfolio will look different for every student. However, the following questions should be considered when preparing your presentation:
-
-* What have I learned and realized?
-* What goals were achieved and which were not achieved?
-* What did I learn outside the learning plan?
-* How do I see my future
-  * What kind of job do I want to get into?
-  * How did the course support those goals?
-  * What other know-how do I need to acquire to reach my goal?
-* What are my strengths and have they been clarified?
-* Why did I choose these documents / works for my career portfolio?
-
-There are many ways to build a career portfolio. It can be a standard directory and is intended to be used, for example, in a job interview to support the display of one's skills. However, it is often the case in the digital field that the career portfolio is available in the internet. This often involves using services such as LinkedIn or GitHub Pages to publish information or building a website to support your expertise. Video services like YouTube have also gained popularity as a channel for sharing expertise. Whatever the technical implementation, you should reassure the assessors on the day of your demonstration of your expertise and its development during the course.
-
-### Demonstration day
-
-The career portfolios will be presented on the demonstration day. The goal of the day is to make everyone's skills and their development are visible and assessed. There are three main areas in which the students are assessed. Technology, content production and business. Each student participates in only one depending on the subject in which they have mainly done their work in. Each student has 30min to convince the panel of their expertise. 20min for portfolio presentation and 10min for discussion and questions. The jury consist of relevant BIT staff.
-
-#### Execution of demonstration day
-
-Implementation proceeds according to the following process
-
-1. The student uploads their portfolio (.zip or a document with a link to a public portfolio) to the workspace return folder
-2. The student picks the best time for their presentation from a list of time in the workspace.
-3. The student will arrive at the room listed on the booking list with the work and presentation tools required to present the portfolio (including a computer if the presentation is digital). The student will have access to a video projector or a large display.
-4. The student presents their portfolio as described in the previous subchapter and agreed upon with the teacher/labmaster/coach.
-5. The jury will make an assessment decision and write the feedback in the return folder.
-
-### Assessment criteria for career portfolio
-
-|Subject of assessment|Sufficient|Good|Excellent|
-|---|---|---|---|
-Contents and execution of portfolio| Has way too much (or too little) content and is a confusing pile of work. Doesn't convince. | Quite ok! Brings out the students know-how through selected work. Presentation type is ordinary. | Interesting and displays the students know-how excellently. Appears to possible employer in a positive and exemplary way.
-| Know-how | Demonstration shows that the students know-how is only a little bit better than at the start of the course, or from a very narrow field. Development of the students know-how is only barely visible. Challenges in achieving set targets. | Evolution of the students know-how and investment in learning can be seen from the portfolio. The student has managed to achieve most of the  set targets.| The learning curve of the students know-how is clearly visible from the presentation. The student is proud of their achievements and displays exemplary exhibition of conquering achievements. |
-Self evaluation and analysis | The student has challenges to show reflective standpoint to their own learning and know-how. | Reflection of know-how is good. The student recognizes their know-hows development points and those sections which are still shallow. | The students analysis is convincing and deep. The student can look and assess their own work from an objective standpoint. The student sees their own potential in the field and can recognize the needs of their know-how for future workplaces and assignments. |
-| Presentation and extra value for the discussion | The presentation is an ordinary list of work. The student can't hold a constructive and analytic discussion with their peers about the presentation. | The student presents their work in organized and analysed manner. The presentation is interesting and well defined. The student provides extra value for the conversation and brings new points of view to it. | The presentation is captivating and really interesting. The structure of the presentation is clear and its technologically exemplary. The students know-how and pride in the done work shows in exemplary through the presented material. The student is active in the discussion and brings new points of view and elevates the discussion to a higher level.
 
 ## Timetable and resources
 
-You will find a detailed calendar with all the communal lectures and events from the TC6 workspace in Optima and from Microsoft Teams. New events will appear as soon as they are arranged and we will try and give enough time to plan the production around these events.
+You will find a detailed calendar with all the communal lectures and events from the TC7 workspace in Moodle and from Microsoft Teams. New events will appear as soon as they are arranged and we will try and give enough time to plan the production around these events.
 
-During the Product Lab the students will work between 270h and 540h based on their own wishes. The amount of hours you are planning to do must be communicated to the group before the production starts. This should also be written into the project plan document. Learning and working will happen at the JAMK main campus (Rajakatu 35) at room AP05. The group will plan and decide their working hours together and arrange it so that most people are attending all times.  
+During the Product Lab the students will work between 270h and 540h based on their own wishes. The amount of hours you are planning to do must be communicated to the group before the production starts. This should also be written into the project plan document. Learning and working will happen as described in the teams project plan documentation. JAMK will provide offices at Digi & Game Center. The group will plan and decide their working hours together and arrange it so that most people are attending all times.  
 
 * 10 ECTS = ~15h/week
 * 20 ECTS = ~30h/week
-
-* First day TBA
-* Week 42 - Autumn break
-* Last day TBA
