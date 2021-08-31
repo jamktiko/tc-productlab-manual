@@ -1,8 +1,8 @@
 # TC8 - Product lab
 
-This is a Product Lab -handbook for students, coaches, faculty and anyone interested.
+This s a Product Lab -handbook for students, coaches, faculty and anyone interested.
 
-Version 0.5 _BETA_
+Version 0.5.1
 
 * Labmaster & Lecturer in Charge = Teemu Pölkki (teemu.polkki@jamk.fi)
 
@@ -12,9 +12,9 @@ Ticorporate Labs are based on olden golden "Information Systems Project" -course
 
 After few yearly incremental upgrades it was decided that Ticorporate as it was is at its end. The course was split in half and that process gave birth to Ticorporate Demo Lab and Ticorporate Product Lab. Year after that, the course was pushed forwards half a year, causing Demo Lab to start on 2nd year BIT students spring semester and Product Lab to start on 3rd year students autumn semester.
 
-Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product. 
+Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product
 
-**This document is created to describe objectives and activities of Product Lab.**
+**This document is created to describe objectives and activities of Ticorporate Product Lab 8.**
 
 ## Application phase
 
@@ -25,7 +25,7 @@ Two most important pre-requirements in Product Lab are:
 * Self leadership skills
 * Independency
 
-As prerequisites you should possess skills in one or more key areas. Content production is the first meaning you should be able to create either content using 2D or 3D tools, or be able to create special effects (particles, shader graph, etc) or know how to create beautiful UI's and good UX. Second key are is business skills. This means marketing, sales, product development, pitching and everything relating to that. It can also be entrepreneurship skills or experience. Third key area is technological skills. This means programming, testing, cloud or on-prem infrastructure. It can also mean tech art. On top of all these you should have some experience on working in a project and some project development skills.
+As prerequisites you should possess skills in one or more key areas. Content production is the first. Meaning that you should be able to create content either using 2D or 3D tools, or be able to create special effects (particles, shader graph, etc) or know how to create beautiful UI's and good UX. Second key area is business skills. This means marketing, sales, product development, pitching and everything relating to that. It can also be entrepreneurship skills or experience. Third key area is technological skills. This means programming, testing, cloud or on-prem infrastructure. It can also mean tech art. On top of all these you should have some experience on working in a project and some project development skills.
 
 ### Application 
 
@@ -39,19 +39,21 @@ The course is divided in four separate phases. These are concepting, pre-product
 
 ### Concepting and grouping up
 
-The course starts with concepting and "mingling" part. Since we have groups with ready made concepts, people with ideas and people without ideas the first weeks purpose is to try and match all those people into a group and get them a productive role in the grand scheme of things. This week will be quite open ended and the execution will depend on which kind of students are attending the course. 
+The course starts with concepting and "mingling" part. Since we have groups with ready made concept, people with ideas and people without ideas the first weeks purpose is to try and match all those people into a group and get them a productive role in the grand scheme of things. This week will be quite open ended and the execution will depend on which kind of students are attending the course. 
 
-During the week Labmaster, some faculty and the team coaches will be around to assist and coach the teams. The Labmaster will be available for few hours a day. 
+During the week Labmaster will be available for few hours a day. 
 
 #### First day of Ticorporate Product Lab VIII
 
 Tuesday 31st of August we start at 14:00 EEST (Finnish time) at Digi & Game Center at Matarankatu. The Lecturer in Charge (or Labmaster) will give introductory speech to Ticorporate, and go through the structure, assessment, deliverables and give general information about the course. Depending a bit on the schedules, the team coaches will be introducing themselves here as well.
 
-When all the formalities are done it's time to start working. During the first day the students should introduce themselves to other students and get to know each other. This can be done via multitude of methods. This is the place in time where the students whom have a ready made idea (or a ready made demo, created in Demo Lab) should introduce it to other students as well. Those who don't have a group, (and possibly have ideas) should try and organically create groups or pairs where they can create a new product concept for new game or application/service.
+When all the formalities are done it's time to start working. During the first day the students should introduce themselves to other students and get to know each other. This can be done via multitude of methods. 
+
+This is the place in time where the students whom have a ready made idea (or a ready made demo, created in Demo Lab) should introduce it to other students as well. Those who don't have a group, (and possibly have ideas) should try and organically create groups or pairs where they can create a new product concept for new game or application/service.
 
 #### Gate 1
 
-On [DATE TBA] at [TIME TBA] (a few days after the start, most likely Friday) will all gather to Digi & Game Center to hear the first product ideas. We might have something from the outside world, and everything from inside of Ticorporate. At this point everyone should have some kind of concept and/or idea on what kind of product they would like to work on and in what role they would do the said work.
+On Monday 6th of September at 09:00 - 11:45 we will all gather to Digi & Game Center to hear the first product ideas from inside of Ticorporate. At this point everyone should have some kind of concept and/or idea on what kind of product they would like to work on and in what role they would do the said work.
 
 Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criteria. The labmaster will provide further instructions at the start of the meeting.
 
@@ -68,7 +70,7 @@ After the initial pitches, we will discuss the concepts and assessments together
 
 Pre-production starts when the teams are ready. Groups will get to know each other better and arranges a workspace to their needs and wants. Roles are selected based on the production model chosen. Chosen roles should include at least a Scrum Master, Product Owner and [a person in charge of Business side of things]. However, these roles should be discussed together with the team before starting pre-production.  
 
-When the roles and workstations are clear the groups will move on to the pre-production tasks. Pre-production can take as long as the group needs, but it shouldn't take too much time. Week, two or three should be enough. Labmaster and coaches will go through the pre-production material and discuss with the team about their findings.
+When the roles and workstations are clear the groups will move on to the pre-production tasks. Pre-production can take as long as the group needs, but it shouldn't take too much time. Week, two or three should be enough. During this time, the teams should test their product idea with the potential customer base to better define what the idea is. Labmaster and coaches will go through the pre-production material and discuss with the team about their findings. 
 
 The items that should be delivered during pre-production
 
@@ -84,14 +86,14 @@ It's also recommended to use the document templates in the provided GitHub repos
 
 ### Production
 
-Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be two meetings with the team. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. The schedule and date of these meetings will be announced at a later date by the labmaster. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies. 
+Will happen in a chosen manner by the group and it will start when the group is ready. During this production phase there will be about bi-weekly meetings with the team and the coaches. These meetings are designed to help and guide the team to right direction by BIT lecturers and relevant industry members. The schedule and date of these meetings is open ended, and will be agreed upon by the team and the coaches. During production phase the team should focus on efficiently and methodically building new features and planning business opportunies. 
 
 The production phase should aim to produce some amount of complete work. It is up to the team to decide wether they want to:
 
 * Create a vertical slice of a game
 * Create a prototype of a game or a product
 * Complete/polish a ready made demo
-* Something akin to this
+* Something completely different
 
 The goal of production phase is to build a product or a service which has business prerequisites. During Product Lab production phase the teams will have visits and lecturers from industry members to help them develop their project and business plan towards release.
 
@@ -114,7 +116,7 @@ At this stage, project implementation and best practices are collected and repor
 
 ### Pitching competition  
 
-The grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on [DATE TBA] at [PLACE TBA, most likely DGC]
+The grade of this Ticorporate Product Lab comes wholly from the Dragons' Den event. It will be judged by BIT lecturers and industry specialists. It will be held on 15th of December at Digi and Game Center.
 
 It is an open event which means that the teams can invite quests and that other students may attend it and watch the pitches.
 
@@ -158,7 +160,6 @@ The level of preparation and effort put into the pitch are also judged.
 ##### 6. The Discussion and Questions
 
 How satisfactory are the teams answers to judges questions. Can the team discuss about their idea in meaningful way and what is the quality of the discussion.
-
 
 ## Timetable and resources
 
