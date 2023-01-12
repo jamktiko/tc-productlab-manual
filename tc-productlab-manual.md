@@ -1,4 +1,4 @@
-# TC8 - Product lab
+# TC9 - Product lab
 
 This s a Product Lab -handbook for students, coaches, faculty and anyone interested.
 
