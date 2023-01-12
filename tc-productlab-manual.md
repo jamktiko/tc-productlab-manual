@@ -2,9 +2,9 @@
 
 This s a Product Lab -handbook for students, coaches, faculty and anyone interested.
 
-Version 0.5.1
+Version 0.5.2
 
-* Labmaster & Lecturer in Charge = Teemu Pölkki (teemu.polkki@jamk.fi)
+* Labmaster & Lecturer in Charge = Antony Smal (antony.smal@jamk.fi)
 
 ## Introduction
 
@@ -14,7 +14,7 @@ After few yearly incremental upgrades it was decided that Ticorporate as it was 
 
 Demo Lab is mandatory for all BIT students and Product Lab is a part of elective professional studies. Demo Labs purpose is basically the same as it was in every other year, to teach students how software projects and its roles work and to build a strictly defined game or software in a group setting. Product Labs purpose is to give students a chance to prove their worth and teach them how to create financially responsible product
 
-**This document is created to describe objectives and activities of Ticorporate Product Lab 8.**
+**This document is created to describe objectives and activities of Ticorporate Product Lab 9.**
 
 ## Application phase
 
@@ -43,9 +43,9 @@ The course starts with concepting and "mingling" part. Since we have groups with
 
 During the week Labmaster will be available for few hours a day. 
 
-#### First day of Ticorporate Product Lab VIII
+#### First day of Ticorporate Product Lab IX
 
-Tuesday 31st of August we start at 14:00 EEST (Finnish time) at Digi & Game Center at Matarankatu. The Lecturer in Charge (or Labmaster) will give introductory speech to Ticorporate, and go through the structure, assessment, deliverables and give general information about the course. Depending a bit on the schedules, the team coaches will be introducing themselves here as well.
+Monday 16th of January we start at 13:00 EEST (Finnish time) at Digi & Game Center at Matarankatu. The Lecturer in Charge (or Labmaster) will give introductory speech to Ticorporate, and go through the structure, assessment, deliverables and give general information about the course. Depending a bit on the schedules, the team coaches will be introducing themselves here as well.
 
 When all the formalities are done it's time to start working. During the first day the students should introduce themselves to other students and get to know each other. This can be done via multitude of methods. 
 
@@ -53,7 +53,7 @@ This is the place in time where the students whom have a ready made idea (or a r
 
 #### Gate 1
 
-On Monday 6th of September at 09:00 - 11:45 we will all gather to Digi & Game Center to hear the first product ideas from inside of Ticorporate. At this point everyone should have some kind of concept and/or idea on what kind of product they would like to work on and in what role they would do the said work.
+On Wednesday 18th of January at 09:30 - 12:45 we will all gather to Digi & Game Center to hear the first product ideas from inside of Ticorporate. At this point everyone should have some kind of concept and/or idea on what kind of product they would like to work on and in what role they would do the said work.
 
 Presentations will happen in no particular order and they will be assessed by the labmaster and peers. The concepts will be assessed by 5 criteria. The labmaster will provide further instructions at the start of the meeting.
 
